@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+
+    <PackageVersion>1.0.0</PackageVersion>
+
+
+    <Authors>Nolan Ramsden</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Description>A .NET Core library to turn an Xbox One On/Off</Description>
+    <Copyright>MIT</Copyright>
+
+  </PropertyGroup>
+
+</Project>

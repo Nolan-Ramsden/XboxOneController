@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Nolan Ramsden</authors>
+    <owners>Nolan Ramsden</owners>
+    <licenseUrl>https://www.gnu.org/licenses/mit.txt</licenseUrl>
+    <projectUrl>https://github.com/Nolan-Ramsden/XboxOneController#readme</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>A .NET Core library to manipulate your Xbox One</summary>
+    <description>A .NET Core library to manipulate your Xbox One</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xbox XboxOne</tags>
+  </metadata>
+</package>
